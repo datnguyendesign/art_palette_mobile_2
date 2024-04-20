@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "280904241737",
+    "firebase_url": "https://images-734a5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "images-734a5",
+    "storage_bucket": "images-734a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280904241737:android:aa28328cc313465ba26598",
+        "android_client_info": {
+          "package_name": "com.example.artpalette"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhRvPM0MFFWawghvYL2gOi8YhEqOiJccs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280904241737:android:10557d87ede50b3ea26598",
+        "android_client_info": {
+          "package_name": "com.example.images"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhRvPM0MFFWawghvYL2gOi8YhEqOiJccs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
